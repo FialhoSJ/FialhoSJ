@@ -9,7 +9,6 @@
 <li>Ciência de Dados e Machine Learning</li>
 <li>Simulação Computacional e Modelagem Matemática</li>
 <li>Desenvolvimento de Software e Algoritmos</li>
-<li>Energias Renováveis e Sustentabilidade</li>
 <li>Criação de Sistemas e Sites Web</li>
 
 ###
